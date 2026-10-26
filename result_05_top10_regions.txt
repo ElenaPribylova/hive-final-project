@@ -1,0 +1,10 @@
+Khanty-Mansia	Windows	23	20230504
+Khakasiya Republic	Android	20	20230514
+Perm	Android	20	20221130
+Kaluga Oblast	Android	19	20220409
+North Ossetia	Android	19	20220330
+Vladimir	Android	19	20220206
+Kostroma Oblast	Android	18	20220508
+Kuzbass	Windows	18	20230826
+Sakha	Android	18	20230713
+Tatarstan Republic	Windows	18	20220510
